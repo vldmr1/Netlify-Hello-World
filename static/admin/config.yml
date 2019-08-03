@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/vldmr1/Netlify-Hello-World.git
+  repo: vldmr1/Netlify-Hello-World
 
 media_folder: static/assets
 
