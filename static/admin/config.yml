@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: erquhart/gatsby-netlify-cms-example #replace with your username/repo
+  repo: https://github.com/vldmr1/Netlify-Hello-World.git
 
 media_folder: static/assets
 
